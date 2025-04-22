@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "tauri": "tauri"
+    "android": "tauri android dev"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
